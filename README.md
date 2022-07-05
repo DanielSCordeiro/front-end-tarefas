@@ -11,7 +11,7 @@ npm install
 
 ## Rodando o projeto
 
-Inicie o projeto com em localhost, como um yarn start
+Inicie o projeto com yarn start
 
 ```bash
 yarn start
