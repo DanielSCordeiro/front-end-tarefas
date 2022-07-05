@@ -7,18 +7,13 @@ Ao clonar o projeto para sua máquina, rode o npm ou yarn para instalar as depen
 
 ```bash
 npm install
-# ou
-yarn add
 ```
 
 ## Rodando o projeto
 
-Inicie o projeto com yarn build e certifique que ele criou os arquivos na pasta dist.
-Então, rode o projeto em localhost, como um yarn start
+Inicie o projeto com em localhost, como um yarn start
 
 ```bash
-yarn build
-# depois
 yarn start
 ```
 
